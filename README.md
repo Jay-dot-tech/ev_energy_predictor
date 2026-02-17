@@ -329,12 +329,6 @@ This project is designed as a complete final-year AIML project with:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
-
-For questions or support, please contact:
-- **Project Developer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [your-username]
 
 ## 🙏 Acknowledgments
 
